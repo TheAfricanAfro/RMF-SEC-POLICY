@@ -1,4 +1,4 @@
-# Securing Mommas and Pappas Farm Co-op's Financial Ventures
+# Enhancing Security Measures for Mommas and Pappas Farm Co-op's
 
 ## Project Overview
 
